@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.body{
+    border: solid 1px;
+    width: 500px;
+    height: 500px;
+}
+p {
+    display: inline-block;
+    vertical-align: middle;
+}
+.dp{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    object-fit: cover;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.profiles{
+    border: solid 1px;
+    display: inline-block;
+    width: 400px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.profile-name{
+    font-weight: bold;
+}
+.mutual{
+    margin-left: -58px;
+    margin-top: 48px;
+    font-size: 12px;
+    color: grey;
+}
+
+.add-btn{
+    margin-left: 120px;
+    background-color: rgb(44, 96, 238);
+    color: white;
+    border: none;
+    border-radius: 5px ;
+    padding: 5px 5px 5px 5px;
+}
+.hr-profile{
+    border: none;
+    margin-top: 50px ;
+    height: 265px;
+    margin-left: 5px ;
+    width: 150px;
+    background-color: rgb(226, 224, 222);
+    display: inline-block;
+    box-shadow: 2px 2px 9px black;
+}
+.dp2{
+    width: 150px;
+    height: 150px;
+    border-radius: 0px;
+    object-fit: cover;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.dp0{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    object-fit: cover;
+    display: inline-block;
+    margin: 5px 5px;
+    vertical-align: middle;
+}
+.mutual2{
+    font-size: 12px;
+    vertical-align: middle;
+    color: grey;
+    letter-spacing: -1px;
+    margin-left: -3px;
+}
+.profile-name2{
+    font-weight: bold;
+    display: block;
+    margin: 5px 5px;
+}
+.add-btn{
+    
+    background-color: rgb(44, 96, 238);
+    color: white;
+    border: none;
+    border-radius: 5px ;
+    padding: 5px 5px 5px 5px;
+    display: block;
+    margin-left: 5px;
+    margin-top: 20px ;
+}
+.dp3{
+    width: 150px;
+    height: 150px;
+    border-radius: 0px;
+    object-fit: cover;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.dp00{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    object-fit: cover;
+    display: inline-block;
+    margin: 5px 5px;
+    vertical-align: middle;
+}
+.hr-profile1{
+    border: none;
+    margin-top: 50px ;
+    height: 265px;
+    margin-left: 15px ;
+    width: 150px;
+    background-color: rgb(226, 224, 222);
+    display: inline-block;
+    box-shadow: 2px 2px 9px black;
+}
+.profile-name3{
+    font-weight: bold;
+    display: block;
+    margin: 5px 5px;
+}
+.mutual3{
+    font-size: 12px;
+    vertical-align: middle;
+    color: grey;
+    letter-spacing: -1px;
+    margin-left: -3px;
+}
+.hr-profile2{
+    border: none;
+    margin-top: 50px ;
+    height: 265px;
+    margin-left: 15px ;
+    width: 150px;
+    background-color: rgb(226, 224, 222);
+    display: inline-block;
+    box-shadow: 2px 2px 9px black;
+}
+.profile-name4{
+    font-weight: bold;
+    display: block;
+    margin: 5px 5px;
+}
+.mutual4{
+    font-size: 12px;
+    vertical-align: middle;
+    color: grey;
+    letter-spacing: -1px;
+    margin-left: -3px;
+}
+.dp4{
+    width: 150px;
+    height: 150px;
+    border-radius: 0px;
+    object-fit: cover;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.dp01{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    object-fit: cover;
+    display: inline-block;
+    margin: 5px 5px;
+    vertical-align: middle;
+}
